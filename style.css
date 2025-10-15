@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header{
+    background-color: chocolate;
+    display: flex;
+    width: 100%;
+    flex-flow: row wrap;
+}
+
+.head_titulo{
+    width: 49%;
+    height: 0.5%; 
+}
+.head_nav{
+    width: 49%;
+    text-align: end;
+    padding: 0.5%;
+}
+
+li{
+    display: inline-block;
+    margin:5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    background-color: chartreuse;
+    padding: 9px;
+    border-radius: 5px;
+}
+
+a:active{
+    color: red;
+}
+
+.Cancion1{
+
+}
+
+.Cancion2{
+    
+}
+
+.Cancion3{
+    
+}
+
+.Cancion4{
+    
+}
